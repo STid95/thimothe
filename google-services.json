@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "145426815066",
+    "project_id": "thimothe",
+    "storage_bucket": "thimothe.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:145426815066:android:ac3dd515775c3f44efa063",
+        "android_client_info": {
+          "package_name": "com.ncontant.thimothe"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBWa3lho1laCu7yz-ywAEaR4Tg3ClY24Fo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
