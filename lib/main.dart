@@ -13,7 +13,7 @@ class MyApp extends StatelessWidget {
     return MaterialApp(
       title: 'Department game',
       theme: ThemeData(
-        colorScheme: ColorScheme.fromSeed(seedColor: const Color(0xFFC5DECD)),
+        colorScheme: ColorScheme.fromSwatch().copyWith(secondary: Colors.blue),
         useMaterial3: true,
       ),
       home: MyHomePage(title: 'Trouve le département !'),
